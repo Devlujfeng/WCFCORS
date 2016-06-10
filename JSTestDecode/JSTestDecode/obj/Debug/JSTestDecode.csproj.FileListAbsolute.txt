@@ -1,0 +1,12 @@
+c:\users\administrator\documents\visual studio 2013\Projects\JSTestDecode\JSTestDecode\bin\JSTestDecode.dll.config
+c:\users\administrator\documents\visual studio 2013\Projects\JSTestDecode\JSTestDecode\bin\JSTestDecode.dll
+c:\users\administrator\documents\visual studio 2013\Projects\JSTestDecode\JSTestDecode\bin\JSTestDecode.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\JSTestDecode\JSTestDecode\obj\Debug\JSTestDecode.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\JSTestDecode\JSTestDecode\obj\Debug\JSTestDecode.dll
+c:\users\administrator\documents\visual studio 2013\Projects\JSTestDecode\JSTestDecode\obj\Debug\JSTestDecode.pdb
+C:\Users\Administrator\Desktop\JSTestDecode\JSTestDecode\bin\JSTestDecode.dll.config
+C:\Users\Administrator\Desktop\JSTestDecode\JSTestDecode\bin\JSTestDecode.dll
+C:\Users\Administrator\Desktop\JSTestDecode\JSTestDecode\bin\JSTestDecode.pdb
+C:\Users\Administrator\Desktop\JSTestDecode\JSTestDecode\obj\Debug\JSTestDecode.dll
+C:\Users\Administrator\Desktop\JSTestDecode\JSTestDecode\obj\Debug\JSTestDecode.pdb
+C:\Users\Administrator\Desktop\JSTestDecode\JSTestDecode\obj\Debug\JSTestDecode.csprojResolveAssemblyReference.cache

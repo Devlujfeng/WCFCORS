@@ -1,0 +1,27 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script src="../scripts/jquery-1.10.2.js"></script>
+    <script>
+        window.onmessage = function (e) {
+            e = e || event;
+            var jsonData = JSON.stringify(e.data);
+            $.ajax({
+                url: "../Service1.svc/postData",
+                type: "POST",
+                contentType: "application/json",
+                datatype: JSON,
+                data: jsonData,
+                success: function (response) {
+                    console.log(response);
+                },
+                error: function (response) {
+                }
+            });
+        };
+    </script>
+</head>
+<body>
+</body>
+</html>
