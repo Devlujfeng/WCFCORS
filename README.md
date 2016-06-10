@@ -12,3 +12,6 @@ This is to sumulate the remote API which could be called by others clients.
 
         
         
+        
+        PS: under the webapp, there is another local WCF that would be called from local. The post method and get method have been setup, the client AJAX call has been congiged inside index.aspx, which wont trigger the CORS since it calls the WCF locally.
+        
